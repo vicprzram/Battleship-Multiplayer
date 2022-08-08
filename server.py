@@ -1,9 +1,3 @@
-"""
-TODO: Salida de los usuarios que no de errores
-TODO: Comprobar en cliente que no meta un parametro mal el usuario
-TODO: Mejorar LOG
-"""
-
 from modules import *
 
 class gameServer():
